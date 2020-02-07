@@ -1,2 +1,2 @@
 # NotePad
-making NotePad app using Java using JavaFx and Java
+creating a NotePad app using Java using JavaFx and Java
